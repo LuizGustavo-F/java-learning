@@ -1,18 +1,59 @@
-## Getting Started
+Repositório dedicado ao estudo da linguagem **Java**, reunindo exercícios, exemplos práticos, anotações e pequenos projetos desenvolvidos durante meu processo de aprendizado.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O objetivo deste repositório é documentar todo conteudo estudado e compartilhar com a comunidade.
 
-## Folder Structure
+## Conteúdo
 
-The workspace contains two folders by default, where:
+À medida que os estudos avançarem, este repositório será organizado em tópicos como:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Fundamentos da linguagem
+- Variáveis e tipos de dados
+- Operadores
+- Estruturas condicionais
+- Estruturas de repetição
+- Métodos
+- Vetores e matrizes
+- Programação Orientada a Objetos (POO)
+- Tratamento de exceções
+- Collections
+- Manipulação de arquivos
+- Exercícios e desafios
+- Projetos práticos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Estrutura do projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+```
+src/
+├── fundamentos/
+├── condicionais/
+├── repeticao/
+├── vetores/
+├── poo/
+├── exceptions/
+└── projetos/
+```
 
-## Dependency Management
+> A estrutura poderá ser expandida conforme novos conteúdos forem sendo estudados.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+##  Objetivos
+
+- Aprender Java de forma consistente.
+- Praticar resolução de problemas.
+- Documentar a evolução nos estudos.
+- Compartilhar exemplos de código com a comunidade.
+- Utilizar o Git e o GitHub para versionamento.
+
+##  Tecnologias
+
+- Java
+- Git
+- GitHub
+- Visual Studio Code
+
+##  Contribuições
+
+Embora este seja um repositório voltado para estudos pessoais, contribuições são aceitas.
+
+## 📄 Licença
+
+Este projeto está disponível para fins de estudo e aprendizado.
