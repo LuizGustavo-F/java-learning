@@ -11,6 +11,6 @@ public class atividade1 {
         y = lg.nextInt();
 
         System.out.println("Soma: " + (x+y));
-
+lg.close();
     }
 }
