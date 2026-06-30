@@ -20,21 +20,6 @@ O objetivo deste repositório é documentar todo conteudo estudado e compartilha
 - Exercícios e desafios
 - Projetos práticos
 
-## Estrutura do projeto
-
-```
-src/
-├── fundamentos/
-├── condicionais/
-├── repeticao/
-├── vetores/
-├── poo/
-├── exceptions/
-└── projetos/
-```
-
-> A estrutura poderá ser expandida conforme novos conteúdos forem sendo estudados.
-
 ##  Objetivos
 
 - Aprender Java de forma consistente.
